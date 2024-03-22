@@ -1,2 +1,4 @@
 # Minecraft-launcher-python
-I made a minecraft launcher in python!
+Я написал Minecraft Лаунчер на python!
+
+
